@@ -25,3 +25,13 @@ Install dev dependencies
 ```
 npm i -D nodemon dotenv
 ```
+
+In root folder
+```
+npm run dev
+```
+
+In client folder
+```
+npm start
+```
